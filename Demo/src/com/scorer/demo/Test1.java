@@ -1,4 +1,3 @@
-//all
 package com.scorer.demo;
 
 public class Test1 {
@@ -12,6 +11,7 @@ public class Test1 {
 		int b=20;
 		int sum=a+b;
 		System.out.println("The sum is "+sum);
+		System.out.println("Hello upadted ");
 
 	}
 }
