@@ -5,6 +5,7 @@ public class UserAction {
 	public static void main(String arg[])
 	{
 		System.out.println("userAction");
+		System.out.println("hi from");
 	}
 
 }
