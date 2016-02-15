@@ -8,7 +8,7 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Tset1");
-		int a=10;
+		int a=0;
 		int b=20;
 		int sum=a+b;
 		System.out.println("The sum is "+sum);
