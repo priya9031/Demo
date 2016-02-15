@@ -12,6 +12,7 @@ public class Test1 {
 		int sum=a+b;
 		System.out.println("The sum is "+sum);
 		System.out.println("Hello upadted ");
+		System.out.println("Hello upadted2");
 
 	}
 }
